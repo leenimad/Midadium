@@ -2,7 +2,15 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This is the **overview** repo for the Midadium Educational Platform.
+
+- 🔗 **Frontend** (Flutter UI):  
+  https://github.com/leenimad/Midadium-Frontend
+
+- 🔗 **Backend** (Node.js APIs):  
+ https://github.com/leenimad/Midadium-Backend
+
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
 [![Backend: Node.js](https://img.shields.io/badge/Backend-Node.js-blue?logo=nodedotjs)](https://nodejs.org/)
 [![Frontend: Flutter](https://img.shields.io/badge/Frontend-Flutter-blue?logo=flutter)](https://flutter.dev/)
 [![Database: MongoDB](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)](https://www.mongodb.com/)
