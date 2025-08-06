@@ -2,14 +2,6 @@
 
 <div align="center">
 
-This is the **overview** repo for the Midadium Educational Platform.
-
-- 🔗 **Frontend** (Flutter UI):  
-  https://github.com/leenimad/Midadium-Frontend
-
-- 🔗 **Backend** (Node.js APIs):  
- https://github.com/leenimad/Midadium-Backend
-
 <!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
 [![Backend: Node.js](https://img.shields.io/badge/Backend-Node.js-blue?logo=nodedotjs)](https://nodejs.org/)
 [![Frontend: Flutter](https://img.shields.io/badge/Frontend-Flutter-blue?logo=flutter)](https://flutter.dev/)
@@ -22,6 +14,14 @@ This is the **overview** repo for the Midadium Educational Platform.
   <em>A full-stack, AI-driven e-learning platform designed to deliver a scalable, personalized, and deeply intelligent educational experience for both students and teachers.</em>
   <br />
 </p>
+
+This is the **overview** repo for the Midadium Educational Platform.
+
+- 🔗 **Frontend** (Flutter UI):  
+  https://github.com/leenimad/Midadium-Frontend
+
+- 🔗 **Backend** (Node.js APIs):  
+ https://github.com/leenimad/Midadium-Backend
 
 <!-- 
     HIGHLY RECOMMENDED: Create a short GIF (using a tool like Giphy Capture or ScreenToGif) showcasing your app's main features and add it here.
